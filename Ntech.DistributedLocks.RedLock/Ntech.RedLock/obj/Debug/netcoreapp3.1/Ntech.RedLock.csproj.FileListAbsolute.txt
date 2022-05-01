@@ -1,0 +1,13 @@
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.csproj.AssemblyReference.cache
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.AssemblyInfoInputs.cache
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.AssemblyInfo.cs
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.csproj.CoreCompileInputs.cache
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\bin\Debug\netcoreapp3.1\Ntech.RedLock.deps.json
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\bin\Debug\netcoreapp3.1\Ntech.RedLock.dll
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\bin\Debug\netcoreapp3.1\Ntech.RedLock.pdb
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\bin\Debug\netcoreapp3.1\Ntech.DistributedLocks.dll
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\bin\Debug\netcoreapp3.1\Ntech.DistributedLocks.pdb
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.csproj.CopyComplete
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.dll
+D:\Seminar\Learning\POC\Ntech.DistributedLocks.RedLock\Ntech.RedLock\obj\Debug\netcoreapp3.1\Ntech.RedLock.pdb
